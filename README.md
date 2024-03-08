@@ -15,8 +15,8 @@
 </p> 
 <!-- <br/> -->
 
-<!--<p align="center">
-  <a href="https://www.kaggle.com/harounqer" target="_blank">
+<p align="center">
+  <!--<a href="https://www.kaggle.com/harounqer" target="_blank">
   <img src="https://img.shields.io/badge/Kaggle-fff?style=for-the-badge&logo=kaggle&logoColor=#24BFFF"/>
  </a> -->
  <a href="https://www.hackerrank.com/haroun_qerdachi" target="_blank">
