@@ -11,7 +11,7 @@
 </p>
 
  <p align="center">
-  👋 Hello! I'm Haroun, a self-driven individual passionate about networking and cybersecurity. With a focus on building robust network infrastructures and fortifying against cyber threats, I thrive on navigating the complexities of these dynamic fields. My dedication lies in crafting secure environments and staying ahead of evolving cybersecurity challenges. Ready to collaborate on innovative solutions and explore new horizons in networking and cybersecurity. Let's journey through the intricate world of networks together! 
+  👋 Hello! I'm a Python developer with a focus on automation and scripting named Haroun. Creating effective scripts and automating chores to speed up operations is what I do best. Together, let's work on creative ideas and investigate fresh avenues for automation!
 </p> 
 <!-- <br/> -->
 
