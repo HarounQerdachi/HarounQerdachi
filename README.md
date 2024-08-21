@@ -37,7 +37,7 @@
 * 🌍  I'm based in Morocco
 * ✉️  You can contact me at [haroun.qerdachi@gmail.com](mailto:haroun.qerdachi@gmail.com)
 * 🚀  I'm currently working on [Mini-clock Project](http://github.com/HarounQerdachi/Mini-clock)
-* 🧠  Actively honing my expertise in Python for networking automation and cybersecurity applications.
+* 🧠  Actively refining my Python skills for scripting and automation.
 * ⚡  I love Chess & Tea. 
 
 ### Skills
