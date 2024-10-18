@@ -34,8 +34,7 @@
 </p>
 
 * 🌍  I'm based in Morocco
-* ✉️  You can contact me at [haroun.qerdachi@gmail.com](mailto:haroun.qerdachi@gmail.com)
-<!--* 🚀  I'm currently working on [Mini-clock Project](http://github.com/HarounQerdachi/Mini-clock)-->
+* ✉️  You can contact me at [haroun.qerdachi@gmail.com](mailto:haroun.qerdachi@gmail.com) <!--* 🚀  I'm currently working on [Mini-clock Project](http://github.com/HarounQerdachi/Mini-clock)-->
 * 🧠  Actively refining my Python skills for scripting and automation.
 * ⚡  I love Chess & Tea. 
 
