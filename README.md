@@ -13,7 +13,6 @@
  <p align="center">
   👋 Hello! I'm a Python developer with a focus on automation and scripting named Haroun. Creating effective scripts and automating chores to speed up operations is what I do best. Together, let's work on creative ideas and investigate fresh avenues for automation!
 </p> 
-<!-- <br/> -->
 
 <p align="center">
   <!--<a href="https://www.kaggle.com/harounqer" target="_blank">
@@ -36,7 +35,7 @@
 
 * 🌍  I'm based in Morocco
 * ✉️  You can contact me at [haroun.qerdachi@gmail.com](mailto:haroun.qerdachi@gmail.com)
-* 🚀  I'm currently working on [Mini-clock Project](http://github.com/HarounQerdachi/Mini-clock)
+<!--* 🚀  I'm currently working on [Mini-clock Project](http://github.com/HarounQerdachi/Mini-clock)-->
 * 🧠  Actively refining my Python skills for scripting and automation.
 * ⚡  I love Chess & Tea. 
 
