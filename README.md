@@ -11,7 +11,7 @@
 </p>
 
  <p align="center">
-  👋 Hello! I'm a Python developer with a focus on automation and scripting named Haroun. Creating effective scripts and automating chores to speed up operations is what I do best. Together, let's work on creative ideas and investigate fresh avenues for automation!
+  👋 Hello! I'm a Python developer with a focus on automation and scripting named Haroun. Creating effective scripts and automating chores to speed up operations is what I do best.
 </p> 
 
 <p align="center">
