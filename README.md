@@ -11,9 +11,7 @@
 </p>
 
  <p align="center">
-  👋 Hello! I'm a Python developer with a focus on automation and scripting named Haroun. Creating effective scripts and automating chores to speed up operations is what I do best.
-</p> 
-
+👋 Hello! I'm Haroun, a Python developer specializing in APIs, networking and web automation. I excel at building efficient scrapers, automating tasks, and optimizing workflows to make data collection and integration seamless.</p> 
 <p align="center">
   <!--<a href="https://www.kaggle.com/harounqer" target="_blank">
   <img src="https://img.shields.io/badge/Kaggle-fff?style=for-the-badge&logo=kaggle&logoColor=#24BFFF"/>
